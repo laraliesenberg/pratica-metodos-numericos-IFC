@@ -37,10 +37,3 @@ Este repositório foi criado com o intuito de:
 * **GNU Octave**
 
 ---
-
-
----
-
-## 📝 Licença
-
-Este projeto é destinado para fins acadêmicos e educacionais.
